@@ -1,1 +1,1 @@
-# [点这里](https://tuyilang.github.io/tuyilang/)
+[点这里](https://tuyilang.github.io/tuyilang/)
